@@ -1,0 +1,122 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "string",
+        "value": "400dp"
+    },
+    "_kiosk_": {},
+    "_left_": {
+        "type": "string",
+        "value": "400dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_responsiveData_": {},
+    "_skin_": "s8ef0c350267400682209f858adc3177",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "400dp"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "btnImgComponent": {
+            "__events__": {
+                "ide_onClick": "AS_Button_af6db8b892f348d1bd1481d4c755ce68"
+            },
+            "__info__": {
+                "kuid": "ge1f488cb2834f0ba7a2b2d537c39c74",
+                "srcKUID": "d698ac94e9ad4086b603b3e47c256b70",
+                "wType": "Button"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "191dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "230dp"
+                }
+            }
+        },
+        "imgAndBtn": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "fba87b5c3d924b9b9638d636535a1d9a",
+                "srcKUID": "ba3fd51660984fa3aafe03e8a4aaff81",
+                "wType": "FlexContainer"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "400dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            }
+        },
+        "imgImgComponent": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j481e92587354742a4d0ee1f5f2c1aec",
+                "srcKUID": "e58b609446db40f682ecddb7ced62db6",
+                "wType": "Image"
+            },
+            "responsiveData": {},
+            "src": "kony_300.png"
+        }
+    },
+    "enablescrolling": true,
+    "id": "imgAndBtn",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "fba87b5c3d924b9b9638d636535a1d9a",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "Form1",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "ba3fd51660984fa3aafe03e8a4aaff81",
+    "wType": "UserWidgetInstance"
+}
