@@ -1,0 +1,29 @@
+{
+  "android": {
+    "font_color": "0179ffff",
+    "font_name": "default",
+    "font_size": 200,
+    "isForked": true
+  },
+  "background_color": "f2f1f7ff",
+  "bg_type": "one",
+  "border_color": "333333ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "fontSizeInPx": false,
+  "font_color": "333333ff",
+  "font_name": "iphoneSystem",
+  "font_size": 200,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "iphone": {
+    "font_color": "c40695ff",
+    "font_name": "System",
+    "font_size": 200,
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kuid": "se947c5ad4274444a99e3f3ec6309d0a",
+  "wType": "TextField"
+}

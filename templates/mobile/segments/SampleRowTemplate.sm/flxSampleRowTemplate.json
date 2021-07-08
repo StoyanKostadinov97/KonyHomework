@@ -25,7 +25,6 @@
     "children": [
         "lblHeading",
         "lblDescription",
-        "lblTime",
         "lblStrip"
     ],
     "clipbounds": true,
