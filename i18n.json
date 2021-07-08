@@ -1,0 +1,85 @@
+{
+    "keys": [
+        "add",
+        "contacts",
+        "edit",
+        "mobile",
+        "notes",
+        "send",
+        "share"
+    ],
+    "locales": {
+        "bg_BG": {
+            "i18nStrings": {
+                "add": "Добави към любими",
+                "contacts": "Контакти",
+                "edit": "Редактиране",
+                "mobile": "телефон",
+                "notes": "Бележки",
+                "send": "Изпрати съобщение",
+                "share": "Споделяне на контакт"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "ca_ES": {
+            "i18nStrings": {
+                "add": "Agregar a los favoritos",
+                "contacts": "Contactos",
+                "edit": "Editar",
+                "mobile": "teléfono",
+                "notes": "Notas",
+                "send": "Enviar mensaje",
+                "share": "Compartir contacto"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "de": {
+            "i18nStrings": {
+                "add": "Zu den Favoriten hinzufügen",
+                "contacts": "Kontakte",
+                "edit": " Bearbeiten",
+                "mobile": "telefon",
+                "notes": "Anmerkungen",
+                "send": "Nachricht senden",
+                "share": "Kontakt teilen"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "en": {
+            "i18nStrings": {
+                "add": "Add to Favorites",
+                "contacts": "Contacts",
+                "edit": "Edit",
+                "mobile": "mobile",
+                "notes": "Notes",
+                "send": "Send Message",
+                "share": "Share Contact"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        }
+    }
+}

@@ -62,6 +62,7 @@
     "pf": "frmAcc",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "contacts",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

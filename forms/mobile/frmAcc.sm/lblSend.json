@@ -62,6 +62,7 @@
     "pf": "frmAcc",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "send",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",
