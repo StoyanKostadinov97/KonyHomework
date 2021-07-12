@@ -45,7 +45,7 @@
     "id": "flxCall",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "iea806ed64664c6faed7e65b964915f6",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",

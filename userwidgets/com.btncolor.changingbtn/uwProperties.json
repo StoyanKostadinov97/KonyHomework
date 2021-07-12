@@ -1,0 +1,47 @@
+{
+    "classname": "changingbtn",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "a7988db822a84ec799aca783dd7f872f",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 1,
+                    "propertyKey": "skinColor",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependentKeysKUIDs": null,
+                        "displayName": "SkinColor",
+                        "srcWidget": "flxContainer",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "h0b50c73b9794a40b12e34a9d1729b91"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.btncolor",
+    "version": "1.0.0"
+}

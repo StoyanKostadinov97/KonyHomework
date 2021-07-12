@@ -45,7 +45,7 @@
     "id": "flxPay",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "dda82afaaf524f1ca8e7241dd5bbc8ce",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",

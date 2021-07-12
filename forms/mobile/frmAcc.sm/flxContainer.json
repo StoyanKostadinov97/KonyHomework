@@ -49,7 +49,8 @@
         "flxMobileContainer",
         "flxHomeContainer",
         "flxFunctionsContainer",
-        "flxNoteContainer"
+        "flxNoteContainer",
+        "test"
     ],
     "clipbounds": true,
     "containerweight": 100,

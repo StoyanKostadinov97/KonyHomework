@@ -45,7 +45,7 @@
     "id": "flxMessage",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "db6df047da4a4b19af32e2742ade3472",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",

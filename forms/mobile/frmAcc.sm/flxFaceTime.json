@@ -45,7 +45,7 @@
     "id": "flxFaceTime",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "d9b34bd9ead141e58298b11686950b12",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",

@@ -45,7 +45,7 @@
     "id": "flxMail",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "g4aa476608e64eaca5064f2d43ab8849",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",

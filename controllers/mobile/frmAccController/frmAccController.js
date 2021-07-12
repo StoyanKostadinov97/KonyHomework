@@ -11,6 +11,7 @@ define({
   },
   
   preShow:function(){
+    
     this.acc=kony.store.getItem("contactDetails") || 
       {
       		contact:{
@@ -24,8 +25,9 @@ define({
      debugger;
     this.view.txtBoxNumber.text=this.acc.contact.phone || "(408) 555-0909";
     this.view.txtBoxName.text=this.acc.contact.name || "Jane Appleseed";
-    this.view.lblBack.onTouchEnd=this.exit.bind(this);
-    this.view.lblEdit.onTouchEnd=this.toggleEdit;
+    this.view.lblBack.onTouchStart=this.exit.bind(this);
+    this.view.lblEdit.onTouchStart=this.toggleEdit;
+    this.view.lblSend.onTouchStart=this.changeTheme;
     this.changeSelectable(this.isEditable);
   },
  
@@ -59,6 +61,18 @@ define({
       	kony.store.setItem("contactDetails", this.acc);
         var frmSegListNavigation=new kony.mvc.Navigation("frmSegList");
     	frmSegListNavigation.navigate();
+  },
+  
+  changeTheme:function(){
+    kony.theme.setCurrentTheme("ContactTheme",this.onSuccessThemeChange,this.onErrorThemeChange);
+  },
+  
+  onSuccessThemeChange:function () {
+   console.log("successfully set the theme to app");
+  },
+
+  onErrorThemeChange:function () {
+    alert("Skin does not exist");
   }
   
  });
