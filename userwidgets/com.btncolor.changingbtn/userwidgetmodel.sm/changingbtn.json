@@ -38,7 +38,8 @@
     "children": [
         "flxContainer",
         "txtBox",
-        "btnColor"
+        "btnColor",
+        "lblInfoComponent"
     ],
     "clipbounds": true,
     "containerweight": 100,

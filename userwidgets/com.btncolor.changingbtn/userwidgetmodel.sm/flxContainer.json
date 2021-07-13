@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "220dp"
+        "value": "183dp"
     },
     "_left_": {
         "type": "string",
@@ -23,7 +23,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s35f213b9afe42e5a43e99304c6394d3",
+    "_skin_": "se1f81094eac4d66bcaeee421698a4e5",
     "_top_": {
         "type": "string",
         "value": "17dp"
@@ -33,6 +33,7 @@
         "value": "100%"
     },
     "allboxes": [],
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [],
     "clipbounds": true,

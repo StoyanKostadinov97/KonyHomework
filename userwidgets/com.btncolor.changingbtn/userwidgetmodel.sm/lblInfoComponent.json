@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "10dp"
+        "value": "20dp"
     },
     "_margin_": [
         1,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "s921ce4d861f4ea7ad0d7569aa2d35d6",
-    "_text_": "HW3 Changing color",
+    "_skin_": "s54ca154472f4f38b26d4fcc93392fb3",
+    "_text_": "Changing from component",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "210dp"
     },
     "_width_": {
         "type": "ref",
@@ -42,7 +42,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblSend",
+    "id": "lblInfoComponent",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +56,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ae19bcdf57f747df808e74f957503479",
+    "kuid": "f70b384d54144a269a48424f864f0f4c",
     "name": "kony.ui.Label",
-    "parent": "flxFunctionsContainer",
-    "pf": "frmAcc",
+    "parent": "changingbtn",
+    "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

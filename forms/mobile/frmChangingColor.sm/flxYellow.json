@@ -26,7 +26,7 @@
     "_skin_": "s35f213b9afe42e5a43e99304c6394d3",
     "_top_": {
         "type": "string",
-        "value": "340dp"
+        "value": "407dp"
     },
     "_width_": {
         "type": "string",
@@ -42,7 +42,7 @@
     "id": "flxYellow",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": false,
+    "isvisible": true,
     "kuid": "fabbe4295c3f45a5891e734ea96f18c3",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",

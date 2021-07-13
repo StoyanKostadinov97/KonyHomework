@@ -23,7 +23,7 @@
         0
     ],
     "_skin_": "s921ce4d861f4ea7ad0d7569aa2d35d6",
-    "_text_": "Share Contact",
+    "_text_": "Change Theme",
     "_top_": {
         "type": "string",
         "value": "53dp"
@@ -62,7 +62,6 @@
     "pf": "frmAcc",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "texti18n": "share",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

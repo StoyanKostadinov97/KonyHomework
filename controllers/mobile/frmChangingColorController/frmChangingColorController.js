@@ -1,18 +1,29 @@
 define({ 
-// 	onViewCreated : function(){
+  onViewCreated : function(){
 
-//       this.view.preShow=this.preShow;
-  	       
+    this.view.preShow=this.preShow;
 
-//     },
-//   	preShow:function(){
-//             debugger;
-//       this.view.flxBlue.onTouchStart=this.changeColor("blue");
-//       this.view.flxRed.onTouchStart=this.changeColor("red");
-//       this.view.flxYellow.onTouchStart=this.changeColor("yellow");
-//     },
-//  //Type your controller code here 
-// 	changeColor:function(color){
-//   		this.view.changingbtn.skinColor=color;
-// 	}
+
+  },
+  preShow:function(){
+    this.view.flxBlue.onClick=this.changeColor;
+    this.view.flxRed.onTouchStart=this.changeColor;
+    this.view.flxYellow.onTouchStart=this.changeColor;
+  },
+
+  changeColor:function(target){
+    var skns={
+      "red":"sknFlxContainerRed",
+      "blue":"sknFlxContainerBlue",
+      "yellow":"sknFlxContainerYellow"
+    };
+
+    if(target.id.includes('Blue')){
+      this.view.changingbtn.skinColor=skns['blue'];
+    } else if(target.id.includes("Red")){
+      this.view.changingbtn.skinColor=skns['red'];
+    } else if(target.id.includes("Yellow")){
+      this.view.changingbtn.skinColor=skns['yellow'];
+    }
+  }
 });

@@ -33,7 +33,8 @@
         "changingbtn",
         "flxBlue",
         "flxYellow",
-        "flxRed"
+        "flxRed",
+        "lblInfo"
     ],
     "containerweight": 100,
     "controllerInfo": {
